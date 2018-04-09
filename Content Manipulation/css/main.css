@@ -1,0 +1,103 @@
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #3B3F41!important;
+}
+
+.nav-item.nav-link {
+    color: white!important;
+}
+
+.navbar-brand {
+    color: white!important;
+}
+
+.nav-item.nav-link.active {
+    color: #45C89B!important;
+}
+
+.content h1 {
+    padding: 10px;
+    padding-left: 30px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+h1 {
+    background-color: #3B3F41e;
+    color: white;
+    padding-left: 40px;
+}
+
+.jumbotron {
+    background-color: #3B3F41;
+    background-position: contain;
+    border-radius: 0;
+}
+
+.jumbotron h1 {
+    font-family: 'Oswald', sans-serif;
+
+    color: white;
+    font-size: 4em;
+    padding-left: 0px;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+
+section img {
+    width: 100%;
+}
+
+p {
+    margin-top: 2em;
+}
+
+button {
+    border-style: none;
+    border-radius: 0;
+    padding: 10px;
+}
+
+.active.btn.btn-primary.btn-sm {
+    background-color: #45C89B;
+    color: white;
+
+}
+
+.btn.btn-primary.btn-sm { 
+    background-color: white;
+    color: black;
+    font-size: 1em;
+    border-style: none;
+    border-radius: 0;
+    padding: 10px;
+}
+
+button.active {
+    background-color: #45C89B;
+    font-family: 'Arial';
+    color: white;
+    border-style: none;
+    border-radius: 0;
+    padding: 10px;
+}
+
+footer {
+    text-align: right;
+    background-color: #3B3F41;
+    height: 100px;
+}
+
+ul {
+    margin-right: 20px;
+}
+
+i {
+    margin-top: 30px;
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+
