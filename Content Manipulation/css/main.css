@@ -22,7 +22,7 @@
 }
 
 h1 {
-    background-color: #3B3F41e;
+    background-color: #3B3F41;
     color: white;
     padding-left: 40px;
 }
@@ -35,7 +35,6 @@ h1 {
 
 .jumbotron h1 {
     font-family: 'Oswald', sans-serif;
-
     color: white;
     font-size: 4em;
     padding-left: 0px;
